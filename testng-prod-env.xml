@@ -8,6 +8,10 @@
         </run>
     </groups>
     <test verbose="2" preserve-order="true" name="APIAutomationFrameworkATB8x">
+        
+        <packages>
+            <package name="test_integration"></package>
+        </packages>
 
     </test>
 </suite>
